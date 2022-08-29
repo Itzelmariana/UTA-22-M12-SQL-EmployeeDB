@@ -48,4 +48,3 @@ The technologies used in this project are as follow:
 - Node.js
 - Inquirer
 - Express
-- Mysql
